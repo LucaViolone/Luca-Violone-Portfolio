@@ -2,6 +2,9 @@
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/d0b50f61-8960-4357-855d-b6f509105582">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/23b13843-7c18-4b6b-b590-d66603fa19e2">
 
+Make.com CSV: [Prompt based scraper.json](https://github.com/user-attachments/files/17219493/Prompt.based.scraper.json)
+
+
 **How it works**:
 This flow works by taking user input (blue segments in second image represent user inputted variables) and inputting them into the url of the API request on a RapidAPI endpoint that contains data on the contact information of many  businesses across industries in the US. This data is then processed, stored in a spreadsheet database of AIDA contacts, and used to create a draft to send to the contact based on a template.
 
