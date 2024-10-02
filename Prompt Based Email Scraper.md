@@ -1,5 +1,5 @@
 **Prompt Based Email Scraper**:
-<img width="1140" alt="image" src="https://github.com/user-attachments/assets/d0b50f61-8960-4357-855d-b6f509105582">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d0b50f61-8960-4357-855d-b6f509105582">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/23b13843-7c18-4b6b-b590-d66603fa19e2">
 
 **How it works**:
