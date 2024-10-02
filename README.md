@@ -4,7 +4,7 @@ Software Project Portfolio for AIDA Digital
 There are multiple projects in this repository including:
 -  An automated agent recruitment system for a real estate agency
 -  Prompt based email scraper
--  Prompt based content generation (based on top youtube videos in the category)
+-  Prompt based content generation (based on top youtube videos in the prompted category)
 -  Content distribution automation
 -  Automated viral content recreation and distribution system
 -  Photography customer sales pipeline
