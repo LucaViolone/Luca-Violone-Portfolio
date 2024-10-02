@@ -2,6 +2,7 @@
 Project Portfolio including AIDA Digital systems, personal projects, and tutorials
 
 Projects in this repository:
+
 AIDA Systems:
 -  An automated agent recruitment system for a real estate agency
 -  Prompt based email scraper
