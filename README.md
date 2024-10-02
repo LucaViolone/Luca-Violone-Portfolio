@@ -13,6 +13,7 @@ AIDA Systems:
 Personal Projects and Tutorials: 
 -  NeurotechX Machine Learning to decode EEG signals (from tutorial)
 -  Using Machine Learning to predict stock prices (from O'Reilly 'Machine Learning and Data Science Blueprints for Finance' book tutorial)
+-  Using Machine Learning to predict derivative prices (from O'Reilly 'Machine Learning and Data Science Blueprints for Finance' book tutorial)
 
 Each project includes a written description of its function. The Make.com files are in JSON format so they can be imported into Make.com and edited. Pictures are used as a visual aid along with the JSON to describe the Make.com projects.
 
