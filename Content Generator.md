@@ -1,6 +1,6 @@
 **Content Generator**:
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/040b28ab-3f3f-4119-9fdf-1e36c490ce6e">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/a0c338f2-d4a3-40bd-8928-7f22adaf2e69">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/040b28ab-3f3f-4119-9fdf-1e36c490ce6e">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/a0c338f2-d4a3-40bd-8928-7f22adaf2e69">
 
 
 Make.com CSV: [Content Automation From YT.json](https://github.com/user-attachments/files/17219402/Content.Automation.From.YT.json)
