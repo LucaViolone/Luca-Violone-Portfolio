@@ -1,6 +1,8 @@
 # Luca Violone Programming Portfolio
 Project Portfolio including AIDA Digital systems, personal projects, and tutorials
 
+Languages: Extensive knowledge of Python, Java, and Make.com automation. Experienced with: Scikit Learn, Numpy, Matplotlib, Pandas, SciPy. Learning HTML, CSS, React, Node.js, SQL, Django.
+
 Projects in this repository:
 
 AIDA Systems:
