@@ -17,6 +17,7 @@ Personal Projects and Tutorials:
 -  [NeurotechX Machine Learning to decode EEG signals]([url](https://github.com/LucaViolone/Luca-Violone-Portfolio/blob/main/08%20Brain-Computer%20Interface%20ANN%20Intro.ipynb)) (from tutorial)
 -  [Using Machine Learning to predict stock prices]([url](https://github.com/LucaViolone/Luca-Violone-Portfolio/blob/main/09%20Stock%20Price%20Prediction%20ML)) (from O'Reilly 'Machine Learning and Data Science Blueprints for Finance' book tutorial)
 -  [Using Machine Learning to predict derivative prices]([url](https://github.com/LucaViolone/Luca-Violone-Portfolio/blob/main/10%20Derivatives%20Price%20Prediction%20ML)) (from O'Reilly 'Machine Learning and Data Science Blueprints for Finance' book tutorial)
+-  Creating and combining historical and social media based Machine Learning models to predict BTC price changes
 
 Each project includes a written description of its function. The Make.com files are in JSON format so they can be imported into Make.com and edited. Pictures are used as a visual aid along with the JSON to describe the Make.com projects.
 
