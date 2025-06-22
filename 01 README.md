@@ -1,7 +1,5 @@
 # Luca Violone Programming Portfolio
-Project Portfolio including AIDA Digital systems, personal projects, and tutorials
-
-Languages: Extensive knowledge of Python, Java, and Make.com automation. Experienced with: Scikit Learn, Numpy, Matplotlib, Pandas, SciPy. Learning HTML, CSS, React, Node.js, SQL, Django.
+Project Portfolio including AIDA Digital systems, personal projects, and tutorials. This does not include projects completed for the Yao Chen Neuroscience Lab at WashU, Surgical Innovation and Machine Interfacing Lab at Stanford, or the Stanford Gordian Knot Center due to data privacy.
 
 Projects in this repository:
 
